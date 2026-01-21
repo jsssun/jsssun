@@ -12,23 +12,22 @@
 
 ### 🧩 About Me
 I’m a Computer Science senior who enjoys building practical software and improving it through iteration.  
-Recently, I’ve been getting deeply interested in **open-source contributions**, where real users, real feedback, and real improvements happen.
+Recently, I’ve been getting interested in **open-source contributions**, where real users and real feedback drive better code.
 
 I enjoy:
-- Reading and understanding existing codebases  
-- Improving UI/UX, structure, and maintainability  
-- Learning through **code reviews and feedback-driven development**
+- Understanding existing codebases
+- Improving UI/UX, structure, and maintainability
+- Growing through **code reviews and feedback**
 
-I’m always happy to collaborate, discuss improvements, or review ideas together 🤝  
-Code reviews, suggestions, and improvement issues are **always welcome**!
+Collaboration, code reviews, and improvement suggestions are always welcome 🤝
 
 ---
 
 ### 🌱 Currently Learning
 - ⚛️ Modern Frontend Development (React, Next.js)
-- 🌐 Full-Stack Development (Frontend ↔ Backend integration)
-- 🧠 Computer Science fundamentals applied to real-world projects
-- ✨ Writing cleaner, more maintainable, and scalable code
+- 🌐 Full-Stack Development
+- 🧠 Applying Computer Science fundamentals to real-world projects
+- ✨ Writing cleaner, scalable code
 
 ---
 
@@ -40,7 +39,6 @@ Code reviews, suggestions, and improvement issues are **always welcome**!
 
 ---
 
-⚡ ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
