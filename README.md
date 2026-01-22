@@ -1,18 +1,17 @@
 ## Hi 👋, I'm Sunwoo Jung
 
-**A Full-Stack Developer with a strong Computer Science background from South Korea 🇰🇷**
+**A Full-Stack Developer with Computer Science background from South Korea 🇰🇷**
 
 🎓 Computer Science senior  
-🎮 Game Development Projects ×3  
-🌐 Backend Project ×1  
-📦 SAP Certified  
-🚀 Full-Stack Developer in progress  
+🎮 Game Development Project
+🌐 Backend Project
+📦 SAP Certified
+🚀 Full-Stack Developer in progress
 
 ---
 
 ### 🧩 About Me
-I’m a Computer Science senior who enjoys building practical software and improving it through iteration.  
-Recently, I’ve been getting interested in **open-source contributions**, where real users and real feedback drive better code.
+I’m a Computer Science senior who enjoys building practical software and improving it through iteration.
 
 I enjoy:
 - Understanding existing codebases
