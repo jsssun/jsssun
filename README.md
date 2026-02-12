@@ -1,42 +1,28 @@
 ## Hi 👋, I'm Sunwoo Jung
 
-**A Full-Stack Developer with Computer Science background from South Korea 🇰🇷**
+**Computer Science senior from South Korea 🇰🇷**
 
-🎓 Computer Science senior  
-🎮 Game Development Project
-🌐 Backend Project
-📦 SAP Certified
-🚀 Full-Stack Developer in progress
+🎓 Computer Science Student
+🌐 Tried Frontend & Backend Projects
+🎮 Participated in Game Development
+📦 SAP Certified (ABAP Cloud)
 
 ---
 
 ### 🧩 About Me
-I’m a Computer Science senior who enjoys building practical software and improving it through iteration.
 
-I enjoy:
-- Understanding existing codebases
-- Improving UI/UX, structure, and maintainability
-- Growing through **code reviews and feedback**
-
-Collaboration, code reviews, and improvement suggestions are always welcome 🤝
+I’m a senior Computer Science student who enjoys building small projects and learning through hands-on experience.
 
 ---
 
-### 🌱 Currently Learning
-- ⚛️ Modern Frontend Development (React, Next.js)
-- 🌐 Full-Stack Development
-- 🧠 Applying Computer Science fundamentals to real-world projects
-- ✨ Writing cleaner, scalable code
+### 💬 Interests
 
----
+* Improving existing code
+* Understanding system structure
+* Writing cleaner and maintainable code
+* Business systems like ERP
 
-### 💬 Ask Me About
-- React & modern frontend development
-- Refactoring and UI/UX improvements
-- Computer Science fundamentals
-- SAP & business system basics
-
----
+Still growing — feedback and suggestions are always welcome 🙂
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
